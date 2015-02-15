@@ -447,3 +447,6 @@ public class Gui extends JFrame implements ActionListener{
 ![](https://github.com/Bob1993/ImageCache/blob/master/Images/数据库压力测试4.png)
 
 这个是双线程的查询测试。
+
+##About me
+[My Blog Site](http://blog.csdn.net/bob1993_Dev)
